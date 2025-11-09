@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+backend/local.settings.json
+backend/__pycache__/
+backend/.venv/
+backend/.python_packages/
+backend/__azurite_db*__.json
+backend/output/
+backend/simulated_nosql/
+*.pyc
